@@ -50,3 +50,11 @@
     font-weight: 600;
     text-decoration: none;
 }
+
+.btnSubmit:disabled{
+  border: 1px solid #999999 !important;
+  background-color: #cccccc !important;
+  color: #666666 !important;
+  /* color: red !important; */
+}
+
